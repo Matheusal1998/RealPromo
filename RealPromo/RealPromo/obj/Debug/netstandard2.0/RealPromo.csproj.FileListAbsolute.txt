@@ -1,0 +1,13 @@
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.deps.json
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.dll
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\ref\RealPromo.dll
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.pdb
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.dll
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\ref\RealPromo.dll
+C:\Users\Samsung\source\repos\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.pdb

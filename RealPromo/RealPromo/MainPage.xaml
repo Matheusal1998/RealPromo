@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#FE602B"
+             x:Class="RealPromo.MainPage">
+
+    <StackLayout  Margin="20,35,20,20" >
+
+        <ListView x:Name="ListViewPromo" HasUnevenRows="True" ItemSelected="Handle_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" >
+                            <StackLayout Spacing="0" HorizontalOptions="StartAndExpand"  Padding="15">
+                                <Label Text="{Binding Chamada}"  TextColor="White" FontAttributes="Bold" FontSize="Large"/>
+                                <Label Text="{Binding Empresa}"  TextColor="White" FontAttributes="Bold" FontSize="Large"/>
+                                <Label Text="{Binding Regras}"  TextColor="White" FontAttributes="Bold" FontSize="Large"/>
+                            </StackLayout>
+                            <StackLayout Spacing="0" BackgroundColor="White" Padding="20">
+                                <Label Text="PEGAR"  TextColor="#FE602B" FontAttributes="Bold" FontSize="Large" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                            </StackLayout>
+                        </StackLayout>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Todas promoção" TextColor="White" HorizontalOptions="Center" VerticalOptions="EndAndExpand"/>
+
+    </StackLayout>
+
+</ContentPage>
